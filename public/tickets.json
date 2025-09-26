@@ -1,0 +1,12 @@
+[
+  { "id": 1,  "title": "Login issue",           "description": "Cannot log in.",                        "customer": "Alice",   "priority": "High",     "status": "Open",         "createdAt": "2025-09-20" },
+  { "id": 2,  "title": "Payment failed",        "description": "Money deducted but failed.",            "customer": "Bob",     "priority": "Critical", "status": "Open",         "createdAt": "2025-09-19" },
+  { "id": 3,  "title": "Page not loading",      "description": "Dashboard not loading.",                "customer": "Charlie", "priority": "Medium",   "status": "Open",         "createdAt": "2025-09-18" },
+  { "id": 4,  "title": "Feature request",       "description": "Add dark mode.",                        "customer": "Diana",   "priority": "Low",      "status": "Open",         "createdAt": "2025-09-17" },
+  { "id": 5,  "title": "Email not received",    "description": "Verification email not received.",      "customer": "Ethan",   "priority": "High",     "status": "Open",        "createdAt": "2025-09-16" },
+  { "id": 6,  "title": "App crash",             "description": "App crashes on startup.",               "customer": "Fiona",   "priority": "Critical", "status": "Open",        "createdAt": "2025-09-15" },
+  { "id": 7,  "title": "Refund pending",        "description": "Refund request still pending.",         "customer": "George",  "priority": "Medium",   "status": "In Progress", "createdAt": "2025-09-14" },
+  { "id": 8,  "title": "Slow performance",      "description": "Application performance is very slow.", "customer": "Hannah",  "priority": "Low",      "status": "Open",         "createdAt": "2025-09-13" },
+  { "id": 9,  "title": "Profile update failed", "description": "Unable to update profile picture.",     "customer": "Ian",     "priority": "Medium",   "status": "Resolved",    "createdAt": "2025-09-12" },
+  { "id": 10, "title": "Password reset issue",  "description": "Password reset link expired.",          "customer": "Julia",   "priority": "High",     "status": "Open",         "createdAt": "2025-09-11" }
+]
